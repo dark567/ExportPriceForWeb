@@ -1,0 +1,15 @@
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\bin\Debug\ExportPriceForWeb.exe.config
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\bin\Debug\ExportPriceForWeb.exe
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\bin\Debug\ExportPriceForWeb.pdb
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\obj\Debug\ExportPriceForWeb.csprojAssemblyReference.cache
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\obj\Debug\ExportPriceForWeb.csproj.CoreCompileInputs.cache
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\obj\Debug\ExportPriceForWeb.exe
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\obj\Debug\ExportPriceForWeb.pdb
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\bin\Debug\EntityFramework.dll
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\bin\Debug\EntityFramework.Firebird.dll
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\bin\Debug\EntityFramework.xml
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\bin\Debug\EntityFramework.SqlServer.xml
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\obj\Debug\ExportPriceForWeb.csproj.CopyComplete
+D:\project\си шарп\analitik\20200526\ExportPriceForWeb\ExportPriceForWeb\bin\Debug\set.ini
